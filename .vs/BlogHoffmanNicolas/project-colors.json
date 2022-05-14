@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cded18e3-cab3-4951-bfa7-e6b1a5398b88": {
+      "ProjectGuid": "cded18e3-cab3-4951-bfa7-e6b1a5398b88",
+      "DisplayName": "BlogHoffmanNicolas",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
